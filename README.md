@@ -16,8 +16,3 @@
 [![Medium Badge](https://img.shields.io/badge/AbdurrahimBalta-black?style=for-the-badge&logo=Medium)](https://medium.com/@apro.forumlar42)
 [![Gmail Badge](https://img.shields.io/badge/AbdurrahimBalta-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:baltabdurrahim@gmail.com)
 
-## My GitHub Profile
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbdurrahimBalta&show_icons=true&theme=merko&count_private=true" /> </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurrahimBalta&layout=compact" />
-</p>
